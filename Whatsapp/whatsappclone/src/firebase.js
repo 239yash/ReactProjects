@@ -1,14 +1,14 @@
 import firebase from 'firebase';
 
 const firebaseConfig = {
-    apiKey: "AIzaSyAnYxnSOxVEstZzlEvKKT3HheJoJVHnZTY",
+    apiKey: "AIza3HheJoJVHnZTY",
     authDomain: "wtfwhatsappclone.firebaseapp.com",
     databaseURL: "https://wtfwhatsappclone.firebaseio.com",
     projectId: "wtfwhatsappclone",
     storageBucket: "wtfwhatsappclone.appspot.com",
-    messagingSenderId: "1080296566426",
-    appId: "1:1080296566426:web:df47e8ce36dfbe58587923",
-    measurementId: "G-3MCDFGBTQP"
+    messagingSenderId: "",
+    appId: "1:1080296426:web:",
+    measurementId: "G-3MCDFGTQP"
   };
 
   const firebaseapp = firebase.initializeApp(firebaseConfig);
